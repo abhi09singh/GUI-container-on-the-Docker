@@ -1,6 +1,6 @@
 #GUI container on the Docker : [running jupyter notebook on Docker container for ML model training]#
 
-https://www.linkedin.com/pulse/task02-gui-container-docker-running-jupyter-notebook-ml-abhinav-singh/?trackingId=U002vHA5mlpfRviUsv0VZw%3D%3D
+To read detailed article : https://www.linkedin.com/pulse/task02-gui-container-docker-running-jupyter-notebook-ml-abhinav-singh
 
 Above task is divided into following sub-task:
 
