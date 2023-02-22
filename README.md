@@ -1,4 +1,4 @@
-#GUI container on the Docker : [running jupyter notebook on Docker container for ML model training]#
+# GUI container on the Docker : [running jupyter notebook on Docker container for ML model training]
 
 To read detailed article : https://www.linkedin.com/pulse/task02-gui-container-docker-running-jupyter-notebook-ml-abhinav-singh
 
